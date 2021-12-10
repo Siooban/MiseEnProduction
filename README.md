@@ -1,3 +1,2 @@
 # MiseEnProduction
-Bonjour, je m'appelle Salomé
-modification depuis le terminal
+Bonjour, nous nous appellons Thomas et Salomé
